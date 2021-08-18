@@ -1,0 +1,14 @@
+.grid-container {
+  display: grid;
+}
+
+.join {
+  background-color: blue;
+}
+
+.subscription {
+  background-color: burlywood;
+}
+.why {
+  background-color: chartreuse;
+}
